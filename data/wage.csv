@@ -1,0 +1,15 @@
+"year","age","sex","maritl","race","education","region","jobclass","health","health_ins","logwage","wage"
+2006,18,"1. Male","1. Never Married","1. White","1. < HS Grad","2. Middle Atlantic","1. Industrial","1. <=Good","2. No",4.31806333496276,75.0431540173515
+2004,24,"1. Male","1. Never Married","1. White","4. College Grad","2. Middle Atlantic","2. Information","2. >=Very Good","2. No",4.25527250510331,70.4760196469445
+2003,45,"1. Male","2. Married","1. White","3. Some College","2. Middle Atlantic","1. Industrial","1. <=Good","1. Yes",4.8750612633917,130.982177377461
+2003,43,"1. Male","2. Married","3. Asian","4. College Grad","2. Middle Atlantic","2. Information","2. >=Very Good","1. Yes",5.04139268515823,154.68529299563
+2005,50,"1. Male","4. Divorced","1. White","2. HS Grad","2. Middle Atlantic","2. Information","1. <=Good","1. Yes",4.31806333496276,75.0431540173515
+2008,54,"1. Male","2. Married","1. White","4. College Grad","2. Middle Atlantic","2. Information","2. >=Very Good","1. Yes",4.84509804001426,127.115743812184
+2009,44,"1. Male","2. Married","4. Other","3. Some College","2. Middle Atlantic","1. Industrial","2. >=Very Good","1. Yes",5.13302127864665,169.528538036679
+2008,30,"1. Male","1. Never Married","3. Asian","3. Some College","2. Middle Atlantic","2. Information","1. <=Good","1. Yes",4.7160033436348,111.720849360989
+2006,41,"1. Male","1. Never Married","2. Black","3. Some College","2. Middle Atlantic","2. Information","2. >=Very Good","1. Yes",4.77815125038364,118.884359339886
+2004,52,"1. Male","2. Married","1. White","2. HS Grad","2. Middle Atlantic","2. Information","2. >=Very Good","1. Yes",4.85733249643127,128.680488220624
+2007,45,"1. Male","4. Divorced","1. White","3. Some College","2. Middle Atlantic","2. Information","1. <=Good","1. Yes",4.76342799356294,117.146816914805
+2007,34,"1. Male","2. Married","1. White","2. HS Grad","2. Middle Atlantic","1. Industrial","2. >=Very Good","2. No",4.39794000867204,81.2832532842527
+2005,35,"1. Male","1. Never Married","1. White","2. HS Grad","2. Middle Atlantic","2. Information","2. >=Very Good","1. Yes",4.49415459401844,89.4924795180001
+2003,39,"1. Male","2. Married","1. White","4. College Grad","2. Middle Atlantic","1. Industrial","2. >=Very Good","1. Yes",4.90308998699194,134.705375118879
