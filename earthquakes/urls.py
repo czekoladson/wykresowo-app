@@ -4,6 +4,8 @@ from . import views
 app_name = 'earthquakes'
 urlpatterns = [
     path('', views.index, name = 'index'),
-    path('plot', views.plot, name = 'plot'),
-    path('info', views.info, name= 'info'),
+    path('age-plot', views.age_plot, name = 'age_plot'),
+    path('info', views.info, name = 'info'),
+    path('earthquakes', views.earthquakes, name = 'earthquakes'),
+    path('air-plot', views.air_plot, name = 'air_plot'),
 ]

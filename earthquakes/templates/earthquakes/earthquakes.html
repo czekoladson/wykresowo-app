@@ -1,0 +1,14 @@
+{% extends "earthquakes/base.html" %}
+
+{% load static %}
+
+{% block content %}
+{% block page_header %}
+    <h1 class="display-3">Wykres trzęsień ziemi z wykresu plotly</h1>
+{% endblock page_header %}
+
+
+<p> Wykres został wyrenderowany za pomocą biblioteki plotly (scattergeo) i danymi pobranymi ze strony z trzęsieniami ziemi w formacie JSON </p>
+<img src="{% static 'earthquakes/images/trzęsienia.jpg' %}" class="img-fluid" alt="Responsive image">
+
+{% endblock %}

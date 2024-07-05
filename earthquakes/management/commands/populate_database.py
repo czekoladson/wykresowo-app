@@ -1,6 +1,7 @@
 import csv
 from django.conf import settings
-from earthquakes.models import PersonSalary 
+from earthquakes.models import PersonSalary
+
 from django.core.management.base import BaseCommand
 
 
@@ -21,8 +22,10 @@ class Command(BaseCommand):
                 db_rows.append(PersonSalary(
                     age=row['age'],
                     education=row['education'],
-                    salary=row['wage']
+                    salary=row['wage'],
                 ))
 
             PersonSalary.objects.bulk_create(db_rows, batch_size = 1000)
+
+
 

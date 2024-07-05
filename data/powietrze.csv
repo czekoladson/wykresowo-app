@@ -1,0 +1,11 @@
+city,airquality,temperature (°C),humidity (%)
+Warsaw,35,18.5,65
+Krakow,55,19.2,70
+Lodz,30,17.6,60
+Wroclaw,50,18.9,68
+Poznan,28,18.1,63
+Gdansk,20,17.2,66
+Szczecin,18,16.8,64
+Bydgoszcz,33,17.5,61
+Lublin,32,18.3,67
+Katowice,52,19.0,72
